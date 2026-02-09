@@ -17,7 +17,7 @@ export default function App() {
           className="buy-btn-top"
           onClick={() =>
             window.open(
-              "https://store.steampowered.com/app/601150/Devil_May_Cry_5/",
+              "https://store.steampowered.com/agecheck/app/2050650/",
               "_blank"
             )
           }
@@ -41,4 +41,5 @@ export default function App() {
     </div>
   );
 }
+
 
